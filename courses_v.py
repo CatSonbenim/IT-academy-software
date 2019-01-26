@@ -1,3 +1,5 @@
+"""Program by @CatSonbenim (Lisa Bulala) 10.11.2018"""
+
 from courses_m import all_courses, CourseFactory
 
 
