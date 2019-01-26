@@ -1,3 +1,5 @@
+"""Program by @CatSonbenim (Lisa Bulala) 10.11.2018"""
+
 import courses_m as cm
 import courses_v as cv
 
