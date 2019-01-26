@@ -1,3 +1,5 @@
+"""Program by @CatSonbenim (Lisa Bulala) 10.11.2018"""
+
 from abc import ABCMeta, abstractmethod
 from datetime import date
 
